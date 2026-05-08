@@ -35,4 +35,3 @@ Typically also:
 test: lint
   # test stuff here
 ```
-
